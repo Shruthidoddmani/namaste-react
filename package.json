@@ -1,0 +1,27 @@
+{
+  "name": "react-start",
+  "version": "1.0.0",
+  "description": "This is React App",
+  "main": "App.js",
+  "dependencies": {
+    "npm": "^10.8.2",
+    "react-start": "file:"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shruthidoddmani/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "npm"
+  ],
+  "author": "Shruthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shruthidoddmani/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Shruthidoddmani/namaste-react#readme"
+}
