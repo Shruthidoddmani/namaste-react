@@ -1,7 +1,21 @@
-const header =  React.createElement("h1", {id:'header'}, "hello World!!!")
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import Header from './component/Header';
 
-console.log(header);
 
+/*
 
-const root = ReactDOM.createRoot(document.getElementById('root'))
-root.render(header);
+Header - logo, nav items
+body - search, restaurantContainer-restaurant card
+footer- copyright, links,address, contact info
+*/
+
+const App = () => {
+    return (
+        <div>
+            < Header />
+        </div>
+    )
+}
+
+ const root = ReactDom.createroot
