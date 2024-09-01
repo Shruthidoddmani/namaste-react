@@ -13,9 +13,10 @@
   display: flex;
   list-style-type: none;
   align-items: center;
-  & > li {
+  & > a {
     padding: 10px;
     margin: 10px;
+    text-decoration: none;
   }
 }
 
