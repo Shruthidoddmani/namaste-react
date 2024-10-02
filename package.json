@@ -11,6 +11,7 @@
     "react-start": "file:"
   },
   "scripts": {
+    "start": "npx parcel index.html",                                                                                                                                                                                                                       
     "test": "jest"
   },
   "repository": {
